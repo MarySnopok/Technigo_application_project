@@ -29,10 +29,10 @@ h1.title {
     margin-top: 20px;
 }
 .ref-link {
-    color: #efd5c6 ; 
+    color: #efd5c6; 
     text-decoration: underline;
     cursor: pointer;
  }
 .ref-link:hover {
-   color: #9e7a5a ; 
+   color: #9e7a5a; 
 }
