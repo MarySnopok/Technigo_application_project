@@ -1,14 +1,14 @@
 body {
-    background-image: url("chocolate.jpg"); 
-    /* //photo from Unsplash open licence// */
-    background-repeat: no-repeat;  
-    background-position: center;
-    background-size: cover;
-    background-color: #130a06;
-    font-family: 'Josefin Sans', sans-serif;
-    color: #efd5c6;
+background:
+url(chocolate.jpg)   /* //photo from Unsplash open licence// */
+center
+no-repeat
+#130a06;
+background-size: cover;
+font-family: 'Josefin Sans', sans-serif;
+color: #efd5c6;
 }
-h1.title {
+.title {
     font-weight: normal;
     text-align: center;
     margin-top: 100px;
