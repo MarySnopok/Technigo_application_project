@@ -1,10 +1,10 @@
 body {
 background:
 url(assets/chocolate.jpg)   /* //photo from Unsplash open licence// */
-center
+center/
+cover
 no-repeat
 #130a06;
-background-size: cover;
 font-family: 'Josefin Sans', sans-serif;
 color: #efd5c6;
 }
